@@ -52,7 +52,7 @@ Follow these steps to run the project on your local machine.
 ## 1️⃣ Clone the Repository
 
 ```
-git clone https://github.com/YOUR_USERNAME/talking-rabbitt-mvp.git
+git clone https://github.com/retrorahul205/LLM_Data_Analysis_webpage.git
 cd talking-rabbitt-mvp
 ```
 
